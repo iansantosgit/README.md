@@ -2,7 +2,6 @@
 * :surfer: Surfista nas horas vagas
 * :books: Formação inicial na GrowDev
 * :pouting_man: Anteriormente auxiliar administrativo
-* :computer: JS lover
 * :floppy_disk: Estudante de Ciência da Computação
 
 
